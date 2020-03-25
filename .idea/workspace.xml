@@ -1,60 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6428b0ca-87ff-4214-af1b-9f57a6b4ba3b" name="Default Changelist" comment="Create project">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/1627fedf84725e44ff98c0524afcad8a95376317" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3d72920013d71641f2519d02a15d47a13e79542d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/43f9f09cccceb66f4679982025182ba174b06cf0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/5/45ad813fce443dcfa9e473de759aafced845501a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/47d7e422b5ff4cad947da16dbe45ca80291d6e1f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5ca88c0b0684a4e82328727aa87ee625f78ed764" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/6871c852cacb599ae395661b5616ab43b505acf7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/91eab9446e3c1c58bb9e382f503f17b15e649a34" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a550f82a771fcf92b008e972816ed6e9245d9994" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bdb072cbb03449a113496b28352afc4affaec09c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bdc16f55233c49dc1e282ba15f95f61637b6ab4f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c3b0abbd1d10614165fc172a9022a32fc207fa17" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e3d7341564d375912cffd4ab8b98406042fdb79a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e44a8606ce010ad9b89aafdfcee2ab49afbf6d10" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fdec24841e9b68706455e7f18ee13f9c0d2ce57c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultithreadingHomework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Multithreading/Bank/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Multithreading/Bank/BankUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Multithreading/Bank/NotEnoughMoneyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Multithreading/Consumer/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Multithreading/Consumer/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Multithreading/Consumer/QueueEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Multithreading/Philosophers/Fork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Multithreading/Philosophers/Philosopher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Multithreading/Singleton/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Multithreading/Singleton/UserSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Multithreading/BankTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Multithreading/ConsumerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Multithreading/PhilosopherTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Multithreading/SingletonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Multithreading/Bank/Bank.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Multithreading/Bank/BankUser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Multithreading/Bank/NotEnoughMoneyException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Multithreading/Consumer/Consumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Multithreading/Consumer/Producer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Multithreading/Consumer/QueueEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Multithreading/Philosophers/Fork.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Multithreading/Philosophers/Philosopher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Multithreading/Singleton/Singleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Multithreading/Singleton/UserSingleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Multithreading/BankTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Multithreading/ConsumerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Multithreading/PhilosopherTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Multithreading/SingletonTest.class" afterDir="false" />
+    <list default="true" id="6428b0ca-87ff-4214-af1b-9f57a6b4ba3b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3d72920013d71641f2519d02a15d47a13e79542d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3d72920013d71641f2519d02a15d47a13e79542d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/5/45ad813fce443dcfa9e473de759aafced845501a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/5/45ad813fce443dcfa9e473de759aafced845501a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a550f82a771fcf92b008e972816ed6e9245d9994" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a550f82a771fcf92b008e972816ed6e9245d9994" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bdc16f55233c49dc1e282ba15f95f61637b6ab4f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bdc16f55233c49dc1e282ba15f95f61637b6ab4f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e44a8606ce010ad9b89aafdfcee2ab49afbf6d10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +41,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ReflectionSearchReplacement" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -146,6 +100,14 @@
       <option name="presentableId" value="Default" />
       <updated>1584516470127</updated>
     </task>
+    <task id="LOCAL-00001" summary="Create project">
+      <created>1584546018303</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584546018303</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,15 +115,21 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="Create project" />
     <option name="LAST_COMMIT_MESSAGE" value="Create project" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/MultithreadingHomework$Unnamed.ic" NAME="Unnamed Coverage Results" MODIFIED="1584525298375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
