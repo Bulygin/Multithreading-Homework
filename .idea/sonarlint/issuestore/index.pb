@@ -1,8 +1,6 @@
 
 Z
 *src/test/java/Multithreading/BankTest.java,4\5\45ad813fce443dcfa9e473de759aafced845501a
-G
-src/main/java/Main.java,e\4\e44a8606ce010ad9b89aafdfcee2ab49afbf6d10
 j
 :src/main/java/Multithreading/Philosophers/Philosopher.java,a\5\a550f82a771fcf92b008e972816ed6e9245d9994
 c
@@ -31,3 +29,7 @@ e
 5src/main/java/Multithreading/Singleton/Singleton.java,3\d\3d72920013d71641f2519d02a15d47a13e79542d
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+T
+$.idea/libraries/junit_junit_4_12.xml,9\b\9bfe0a33e04b9ed0346f19a7160d3167c5b182b0
+J
+MultithreadingHomework.iml,7\f\7fe3040d01547f5784cbfdcc8203e61c16ad6436
